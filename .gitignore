@@ -1,0 +1,2 @@
+frontend/ # If you have a frontend folder to exclude
+node_modules/
